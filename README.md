@@ -6,15 +6,16 @@
 - Deep learning - Convoluional Neural Netoworks
 - Tensorflow , Pytorch , Keras
 - Advanced Python and Flask lib
-- Statics and Math for Machine Learning
+- Statistics and Math for Machine Learning
 - Computer Vision
 
 📫 How to reach me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) Facebook](https://www.facebook.com/yusifabasovv)
 
-![https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white]({https://www.facebook.com/yusifabasovv})
+![Facebook]({https://www.facebook.com/yusifabasovv})
 [1]: https://www.linkedin.com/in/yusifabasovv
 [2]: https://www.facebook.com/yusifabasovv
 
