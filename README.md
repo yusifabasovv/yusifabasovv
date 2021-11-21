@@ -8,7 +8,7 @@
 - Advanced Python and Flask lib
 - Statistics and Math for Machine Learning
 - Computer Vision
-
+<!--
 👩‍💻Technical and Data skills :
 
 - [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]
@@ -18,7 +18,7 @@
 - [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]
 - [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)]
 - 
-
+-->
 📫 How to reach me:  
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusifabasovv/)  
@@ -27,11 +27,7 @@
 🔁 Dynamic  
 
 
-[![Yusif's stats](https://github-readme-streak-stats.herokuapp.com/?user={yusifabasovv})]  
-
-[![](https://github-readme-stats.vercel.app/api?username={yusifabasovv})]  
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username={yusifabasovv})]
+![Yusif's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusifabasovv&show_icons=true&theme=radical)
 
 
 
