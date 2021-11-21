@@ -10,14 +10,10 @@
 - Computer Vision
 
 📫 How to reach me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) Facebook](https://www.facebook.com/yusifabasovv)
 
-![Facebook]({https://www.facebook.com/yusifabasovv})
-[1]: https://www.linkedin.com/in/yusifabasovv
-[2]: https://www.facebook.com/yusifabasovv
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusifabasovv/)
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yusifabasovv)
+
 
 <!--
 **yusifabasovv/yusifabasovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
